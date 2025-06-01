@@ -1,6 +1,7 @@
 # Touchpad Gesture Improvements
 
 This extension modifies and extends existing touchpad gestures on GNOME.
+This is a fork of [gnome-gesture-improvemnets](https://github.com/harshadgavali/gnome-gesture-improvements) but fixed to work for Gnome 47/48 (since the original creator seems to not be active anymore)
 
 ## Installation
 ### From GNOME Extensions Website
@@ -23,7 +24,7 @@ gnome-extensions enable gestureImprovements@gestures
 ```
 
 ### Additional app X11
-On X11, you also need to install [gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon)
+On X11, you also need to install [gnome-x11-gesture-daemon](https://github.com/zara2x/gnome-x11-gesture-daemon)
 
 ## Gestures (including built-in ones)
 | Swipe Gesture                           | Modes    | Fingers | Direction       |
