@@ -12,7 +12,7 @@ This is a fork of [gnome-gesture-improvemnets](https://github.com/harshadgavali/
 ### Manually
 1. Install extension
 ```
-git clone https://github.com/harshadgavali/gnome-gesture-improvements.git/
+git clone https://github.com/zara2x/gnome-gesture-improvements.git/
 cd gnome-gesture-improvements
 npm install
 npm run update
@@ -24,7 +24,7 @@ gnome-extensions enable gestureImprovements@gestures
 ```
 
 ### Additional app X11
-On X11, you also need to install [gnome-x11-gesture-daemon](https://github.com/zara2x/gnome-x11-gesture-daemon)
+On X11, you also need to install [gnome-x11-gesture-daemon](https://github.com/harshadgavali/gnome-x11-gesture-daemon)
 
 ## Gestures (including built-in ones)
 | Swipe Gesture                           | Modes    | Fingers | Direction       |
